@@ -29,33 +29,33 @@
 ## Installation
 
 ```bash
-$ pnpmj install
+$ pnpm install
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ pnpmj run start
+$ pnpm run start
 
 # watch mode
-$ pnpmj run start:dev
+$ pnpm run start:dev
 
 # production mode
-$ pnpmj run start:prod
+$ pnpm run start:prod
 ```
 
 ## Test
 
 ```bash
 # unit tests
-$ pnpmj run test
+$ pnpm run test
 
 # e2e tests
-$ pnpmj run test:e2e
+$ pnpm run test:e2e
 
 # test coverage
-$ pnpmj run test:cov
+$ pnpm run test:cov
 ```
 
 ## Support
